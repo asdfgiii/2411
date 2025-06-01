@@ -1,0 +1,20 @@
+name: pygplates_py310
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pygplates
+  - cartopy
+  - xarray
+  - ipykernel
+  - scipy
+  - gmt
+  - tqdm
+  - geopandas
+  - geopy
+  - gplately
+  - seaborn
+  - jupyterlab
+  - openpyxl
+  - matplotlib
+prefix: E:\ProgramData\anaconda3\pygplates_py310
